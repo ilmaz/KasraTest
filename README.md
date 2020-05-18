@@ -1,7 +1,7 @@
 # KasraTest
 **Before Starting The Project:**
-1)In Persistence.EF --> Update-database (in PMC)
-2)Run Query (in SSMS for seed data):
+1)In Persistence.EF --> Update-database (in PMC) 
+2)Run Query (in SSMS for seed data): 
 
 ```sh
 INSERT dbo.std_Score
