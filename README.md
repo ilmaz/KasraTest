@@ -1,6 +1,6 @@
 # KasraTest
 **Before Starting The Project:**
-1)In Persistence.EF --> Update-database (in PMC) 
+1)In Persistence.EF Layer--> Update-database (in PMC) 
 2)Run Query (in SSMS for seed data): 
 
 ```sh
